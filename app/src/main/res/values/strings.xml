@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SmallWinner</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtPlayer">Player</string>
+    <string name="txtTitulo">SmallWinner</string>
+    <string name="txtComputer">Computer</string>
+    <string name="btnJogar">Jogar</string>
+    <string name="txtResultados">Status...</string>
+    <string name="txtPontosPC">0</string>
+    <string name="txtPontosP">0</string>
+
+</resources>
